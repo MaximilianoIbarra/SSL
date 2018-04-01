@@ -1,11 +1,11 @@
 # SSL #
 
-#Maximiliano Ibarra
+# Maximiliano Ibarra
 
-#Legajo 110803-7
+# Legajo 110803-7
 
-##*37 años
+##* 37 años
 
-##*Technical Project Manager en Movistar Argentina
+##* Technical Project Manager en Movistar Argentina
 
-##*Papá de Bautista de 3 años
+##* Papá de Bautista de 3 años
