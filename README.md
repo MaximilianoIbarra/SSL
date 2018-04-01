@@ -1,11 +1,11 @@
 ## SSL ##
 
-### K2051
+### Curso          : K2051
 
-### 2018 
+### Año de cursada : 2018 
 
-### 110803-7
+### Legajo         : 110803-7
 
-### Ibarra
+### Apellido       : Ibarra
 
-### Maximiliano
+### Nombre         : Maximiliano
