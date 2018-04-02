@@ -1,7 +1,7 @@
 /* Hello.c
 * Escribe por pantalla Hello World!
 * Maximiliano Ibarra
-* Cuando: Fecha de última modificación
+* 20180402
 */
 # include<stdio.h>
 
